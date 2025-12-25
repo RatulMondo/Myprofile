@@ -1,4 +1,3 @@
-![Shahin Banner](https://github.com/MdShahinPramanik/MdShahinPramanik/blob/main/shahin%20banner.gif?raw=true)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
