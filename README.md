@@ -1,14 +1,18 @@
+
+<!-- ================= PROFILE IMAGE ================= -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&weight=700&duration=3000&pause=1000&color=F4D03F&center=true&vCenter=true&repeat=false&width=600&lines=Hi+there+👋,+I+am+Ratul" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img 
+    src="https://raw.githubusercontent.com/RatulMondo/Myprofile/main/Ratul.jpg"
+    alt="Ratul"
+    width="1200"
+    height="350"
+    style="border-radius: 70%;"
+  />
 </div>
 
 <br/>
 
+<!-- ================= TYPING TEXT ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -26,6 +30,7 @@
 
 ---
 
+<!-- ================= SKILLS ================= -->
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <p align="left"> 
@@ -47,13 +52,13 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -66,6 +71,7 @@
 
 ---
 
+<!-- ================= LOCATION ================= -->
 <h3 align="left">📍 My Location</h3>
 
 <p align="left">
