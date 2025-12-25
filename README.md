@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">
-  <i>"I am a student of the Computer Science Department at Banaras Hindu University."</i>
+  <i>"I am a student of the MBA at Banaras Hindu University."</i>
 </p>
