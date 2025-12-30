@@ -90,5 +90,21 @@
 </p>
 
 <p align="center">
-  <i>"I am a student of the MBA at Banaras Hindu University."</i>
+  <i>"Business professional with 6+ years of experience as a Senior Executive in the Accounts & Finance Department at A.H. Khan & Company Limited (3PL).
+
+I hold a BBA from East West University, an MBA from North South University, and an MBA in Foreign Trade from Banaras Hindu University (BHU).
+
+Experienced in data entry, financial data handling, and Excel/Google Sheets, with a strong focus on accuracy and timely delivery.
+
+🛠️ Skills
+
+-Data Entry & Data Management
+
+-Excel & Google Sheets
+
+-Data Scraping / Mining
+
+-PDF to Excel / Word
+
+-Web Research & Copy-Paste"</i>
 </p>
