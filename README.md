@@ -96,15 +96,15 @@ I hold a BBA from East West University, an MBA from North South University, and 
 
 Experienced in data entry, financial data handling, and Excel/Google Sheets, with a strong focus on accuracy and timely delivery.
 
-🛠️ Skills
+🛠️ **SKILLS**
 
--Data Entry & Data Management
+- Accounts Receivable & Payable
+- Budgeting of Logistics Operation
+- Cost Accounts Preparation & Analysis  
 
--Excel & Google Sheets
-
--Data Scraping / Mining
-
--PDF to Excel / Word
-
--Web Research & Copy-Paste"</i>
+- Data Entry & Data Management
+- Excel & Google Sheets
+- Data Scraping / Mining
+- PDF to Excel / Word
+- Web Research & Copy-Paste"</i>
 </p>
